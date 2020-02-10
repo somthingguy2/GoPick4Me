@@ -1,0 +1,147 @@
+h1 {
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif !important;
+}
+
+h3 {
+    text-align:center;
+    font-family: Impact, Charcoal, sans-serif !important;
+    letter-spacing:1px;
+}
+
+p {
+    font-size: 25px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.navbar {
+    margin-bottom:0;
+    border-radius:0;
+    background-color:#99E0B1;
+    border:none;
+}
+
+.dropdown-menu{
+	background-color:#99E0B1;
+}
+
+.mainb {
+    background-color: #D3FAD6;
+    padding:2%;
+}
+
+.background {
+    background-color: #FBBDCA;
+}
+
+.customwheel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3%;
+	border: 0px;
+}
+
+.form {
+    padding-top: 3%;
+}
+
+.bcolor {
+    background-color: #D3FAD6;
+}
+
+.polaroid {
+    width: 25%;
+    height: 25%;
+}
+
+.caption {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.kp {
+    float:right;
+    margin-right: 20%;
+}
+
+.jk {
+    margin-left: 20%;
+}
+
+.sa {
+    float:right;
+    margin-right: 20%;
+}
+
+.df {
+    margin-left: 20%;
+}
+
+.assortfood {
+    padding-bottom: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    clear:both;
+}
+
+.wheelbuttons {
+    display:block;
+    margin:0px auto 10px auto;
+    padding-top:2%;
+    padding-bottom:2%;
+}
+
+.button1 {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+	font-family: Impact, Charcoal, sans-serif;
+	letter-spacing: 1px;
+	font-size: 20px;
+    border-color: #FBBDCA;
+    border-style: solid;
+    border-width:4px;
+    border-radius:10px;
+    height: 80px;
+    width:200px;
+    padding:5px;
+}
+
+.buttonm{
+    padding: 2% !important;
+}
+
+.button1:hover {
+    display:block;
+    width:200px;
+    height:80px;
+    background-color: #99E0B1;
+}
+
+.groupbuttons {
+    display:block;
+    background-color:#D3FAD6;
+}
+
+a:link {
+    color:black;
+    text-decoration:none;
+}
+a:visited {
+    color:black;
+    text-decoration:none;
+}
+a:hover {
+    color:black;
+    text-decoration:none;
+}
+a:active {
+    color:black;
+    text-decoration:none;
+}
+/** d3fad6 **/
+
+/** #99E0B1 **/
